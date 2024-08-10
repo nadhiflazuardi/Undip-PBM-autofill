@@ -9,7 +9,7 @@ This script is designed to automatically fill in Undip's PBM Evaluation form on 
 ## How to Use
 
 1. Open the PBM Evaluation page on SIAP.
-2. Open the developer tools in your browser (usually by pressing `F12` or `Ctrl+Shift+I`).
+2. Open the developer tools in your browser (usually by pressing `F12` or `Ctrl+Shift+C`).
 3. Paste the script code into the console in the developer tools.
 4. Press `Enter` to execute the script.
 5. Enjoy the automated form filling!
